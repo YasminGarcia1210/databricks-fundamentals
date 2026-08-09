@@ -17,3 +17,21 @@ Aquí encontrarás:
 Cada carpeta corresponde a una sesión del curso.
 
 ¡Bienvenido al ecosistema Databricks!
+
+## Comandos útiles
+
+### Clonar el repositorio
+
+```bash
+git clone https://github.com/YasminGarcia1210/databricks-fundamentals.git
+cd databricks-fundamentals
+```
+
+### Subir cambios al repositorio remoto
+
+```bash
+git status
+git add .
+git commit -m "Descripción de los cambios"
+git push origin main
+```
