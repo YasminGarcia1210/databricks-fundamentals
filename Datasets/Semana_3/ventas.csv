@@ -1,0 +1,101 @@
+id,vendedor,ciudad,producto,valor
+001,Rocío,Bogotá,Escáner,2087
+002,Ximena,Bogotá,Switch,4021
+003,Lucía,Bogotá,Memoria RAM,665
+004,Óliver,Cali,Laptop,5989
+005,Laura,Bogotá,Router,2360
+006,Patricia,Medellín,Access Point,1842
+007,Manuel,Cali,Tablet,3304
+008,Andrea,Bogotá,Webcam,891
+009,Alicia,Cali,Fuente de Poder,1319
+010,Patricia,Medellín,Switch,4198
+011,Óscar,Bogotá,Memoria RAM,777
+012,Iván,Cali,Cargador,261
+013,Óscar,Bogotá,Teclado,808
+014,Estefanía,Cali,Teclado,323
+015,Rodrigo,Pereira,Laptop,3878
+016,Carolina,Cartagena,Diadema,805
+017,Juliana,Cali,Servidor,11230
+018,Rocío,Bogotá,Access Point,998
+019,Alejandra,Pereira,Escáner,1712
+020,Raúl,Cali,Teclado,271
+021,Manuel,Cali,Laptop,4373
+022,Sandra,Cali,Cable HDMI,96
+023,Natalia,Cali,Fuente de Poder,1301
+024,Cristóbal,Cali,UPS,1470
+025,Cristian,Bogotá,Mouse,313
+026,Guillermo,Barranquilla,Webcam,883
+027,Johanna,Bogotá,UPS,1749
+028,Álex,Bogotá,Webcam,827
+029,Melissa,Bogotá,Fuente de Poder,1223
+030,Liliana,Bogotá,UPS,2276
+031,Rafael,Bogotá,Switch,3444
+032,Andrea,Bogotá,Disco Duro,806
+033,Liliana,Bogotá,Disco Duro,1367
+034,Daniela,Bogotá,Teclado,401
+035,Andrea,Bogotá,Servidor,13345
+036,Laura,Bogotá,Teclado,398
+037,Camila,Medellín,Tablet,3612
+038,Óscar,Bogotá,Impresora,1417
+039,Santiago,Cali,Escáner,2121
+040,Rodrigo,Pereira,Router,863
+041,Rocío,Bogotá,Cable HDMI,124
+042,Iker,Bogotá,Webcam,625
+043,Cristóbal,Cali,Router,2320
+044,Álvaro,Cali,Access Point,2024
+045,Claudia,Bucaramanga,Access Point,1379
+046,Ricardo,Cartagena,Laptop,6381
+047,Estefanía,Cali,Escáner,1558
+048,Iker,Bogotá,UPS,1353
+049,Daniela,Bogotá,Teclado,399
+050,Amanda,Medellín,Diadema,209
+051,Álvaro,Cali,Tablet,4139
+052,Nicolás,Barranquilla,Escáner,2183
+053,Pedro,Bucaramanga,Webcam,330
+054,Jorge,Pereira,UPS,560
+055,Cristian,Bogotá,Escáner,1912
+056,Lucía,Bogotá,Laptop,4187
+057,Manuel,Cali,Cable HDMI,74
+058,Karen,Medellín,Webcam,386
+059,Cristóbal,Cali,Disco Duro,1076
+060,Adriana,Barranquilla,Router,2462
+061,Adriana,Barranquilla,Tablet,2952
+062,Sergio,Medellín,Cable HDMI,104
+063,Liliana,Bogotá,Servidor,11352
+064,Claudia,Bucaramanga,UPS,663
+065,Miguel,Medellín,Teclado,785
+066,Vicente,Medellín,Monitor,2444
+067,Claudia,Bucaramanga,Teclado,324
+068,Liliana,Bogotá,Laptop,4748
+069,Carolina,Cartagena,Impresora,2739
+070,Iván,Cali,Mouse,191
+071,Mauricio,Cali,Disco Duro,1055
+072,Pedro,Bucaramanga,Cargador,400
+073,Ximena,Bogotá,Mouse,163
+074,Estefanía,Cali,Mouse,93
+075,María,Bogotá,Memoria RAM,839
+076,Nicolás,Barranquilla,Escáner,1512
+077,Alejandra,Pereira,Router,911
+078,Alberto,Barranquilla,Teclado,224
+079,Emmanuel,Cali,Memoria RAM,1120
+080,Nicolás,Barranquilla,Cargador,151
+081,Patricia,Medellín,Access Point,684
+082,Miguel,Medellín,UPS,2204
+083,Iván,Cali,Proyector,2764
+084,Ana,Bogotá,Tablet,1451
+085,Juliana,Cali,Cable HDMI,165
+086,Enrique,Bogotá,Cable HDMI,132
+087,Felipe,Barranquilla,Webcam,924
+088,Rodrigo,Pereira,Cable HDMI,85
+089,Silvia,Cali,Fuente de Poder,903
+090,Jorge,Pereira,UPS,2430
+091,Mauricio,Cali,Cable HDMI,108
+092,Adriana,Barranquilla,Teclado,208
+093,Sergio,Medellín,Webcam,449
+094,Álex,Bogotá,Webcam,783
+095,Jorge,Pereira,Escáner,1388
+096,Claudia,Bucaramanga,Diadema,1051
+097,Adriana,Barranquilla,Switch,3497
+098,Alicia,Cali,Proyector,4316
+099,Camila,Medellín,Disco Duro,1520
+100,Emmanuel,Cali,Disco Duro,1438
