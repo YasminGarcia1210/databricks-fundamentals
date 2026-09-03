@@ -25,9 +25,9 @@
 
 # MAGIC %sql
 # MAGIC -- Ajustar estos tres valores según su workspace antes de ejecutar
-# MAGIC USE CATALOG workspace_dian;
-# MAGIC CREATE SCHEMA IF NOT EXISTS curso_databricks;
-# MAGIC USE SCHEMA curso_databricks;
+# MAGIC USE CATALOG curso_dian;
+# MAGIC CREATE SCHEMA IF NOT EXISTS fuentes;
+# MAGIC USE SCHEMA fuentes;
 
 # COMMAND ----------
 
@@ -39,10 +39,12 @@
 
 # MAGIC %sql
 # MAGIC CREATE OR REPLACE TABLE bronze_declaraciones_tributarias
-# MAGIC USING PARQUET
-# MAGIC OPTIONS (path '/Volumes/workspace_dian/curso_databricks/raw/declaraciones_tributarias_500.parquet');
-# MAGIC
-# MAGIC SELECT * FROM bronze_declaraciones_tributarias LIMIT 10;
+# MAGIC USING DELTA
+# MAGIC AS
+# MAGIC SELECT *
+# MAGIC FROM read_files('/Volumes/curso_dian/fuentes/archivos/declaraciones_tributarias_500.parquet', format=>'parquet');
+
+# MAGICSELECT * FROM bronze_declaraciones_tributarias LIMIT 15;
 
 # COMMAND ----------
 
