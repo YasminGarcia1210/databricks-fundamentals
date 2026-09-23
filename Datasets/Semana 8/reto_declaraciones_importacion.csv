@@ -1,0 +1,66 @@
+puerto_entrada,pais_origen,categoria_producto,anio,numero_declaraciones,valor_cif_total,total_arancel,total_iva_importacion,total_impuesto_total,dias_promedio_desaduanaje
+Barranquilla,China,Maquinaria y equipo,2024,9,27825404,3220438,5898710,9119148,8.2
+Barranquilla,Estados Unidos,Vehículos y autopartes,2025,6,24776515,3237208,5322607,8559815,4.0
+Santa Marta,Corea del Sur,Maquinaria y equipo,2025,10,28660278,2435145,5908130,8343275,10.7
+Bogotá (El Dorado),México,Maquinaria y equipo,2025,11,26846126,2172616,5513561,7686177,6.6
+Santa Marta,Estados Unidos,Maquinaria y equipo,2024,7,28498294,1878601,5771610,7650211,9.5
+Santa Marta,China,Maquinaria y equipo,2025,6,30179214,1580378,6034322,7614700,4.4
+Santa Marta,Alemania,Electrónicos y tecnología,2024,5,22121212,2745753,4724723,7470476,8.0
+Cartagena,Corea del Sur,Electrónicos y tecnología,2025,7,23446054,2124389,4858384,6982773,10.8
+Buenaventura,Alemania,Maquinaria y equipo,2024,8,21228271,2469670,4502609,6972279,3.7
+Cartagena,México,Electrónicos y tecnología,2024,15,18895206,2712850,4105531,6818381,2.6
+Santa Marta,México,Vehículos y autopartes,2024,9,20458306,2408593,4344711,6753304,11.5
+Barranquilla,México,Electrónicos y tecnología,2024,5,20047942,2096193,4207386,6303579,10.8
+Cartagena,China,Maquinaria y equipo,2025,3,20972744,1748197,4316979,6065176,3.8
+Santa Marta,Corea del Sur,Vehículos y autopartes,2025,5,21741799,1499962,4415935,5915897,4.7
+Cartagena,Brasil,Electrónicos y tecnología,2024,3,16748075,2275382,3614457,5889839,4.7
+Cartagena,Brasil,Vehículos y autopartes,2024,4,16632346,2066430,3552767,5619197,4.1
+Santa Marta,México,Electrónicos y tecnología,2025,14,19382718,1555496,3978261,5533757,12.3
+Buenaventura,Alemania,Electrónicos y tecnología,2025,13,17204674,1850657,3620513,5471170,9.7
+Barranquilla,Brasil,Vehículos y autopartes,2025,7,16989131,1791355,3568292,5359647,4.4
+Bogotá (El Dorado),México,Vehículos y autopartes,2025,10,17517877,1649809,3641860,5291669,9.3
+Buenaventura,Corea del Sur,Electrónicos y tecnología,2025,3,19325663,1189189,3897822,5087011,12.2
+Cartagena,Estados Unidos,Vehículos y autopartes,2025,7,18542410,1305866,3771172,5077038,9.7
+Santa Marta,Alemania,Vehículos y autopartes,2024,16,15121762,1843757,3223449,5067206,7.5
+Bogotá (El Dorado),Corea del Sur,Electrónicos y tecnología,2025,12,13343838,1996367,2914639,4911006,3.2
+Bogotá (El Dorado),China,Electrónicos y tecnología,2025,3,18007585,1066587,3624093,4690680,6.7
+Barranquilla,Brasil,Vehículos y autopartes,2024,6,13514581,1645552,2880425,4525977,4.5
+Bogotá (El Dorado),Estados Unidos,Maquinaria y equipo,2025,3,15485870,947540,3122348,4069888,12.0
+Cartagena,China,Electrónicos y tecnología,2025,6,10193408,1390998,2201037,3592035,12.3
+Cartagena,Alemania,Vehículos y autopartes,2024,7,13471296,725102,2697316,3422418,8.5
+Bogotá (El Dorado),Corea del Sur,Maquinaria y equipo,2025,13,12400059,748451,2498217,3246668,11.3
+Bogotá (El Dorado),Alemania,Electrónicos y tecnología,2024,9,9489650,706015,1937176,2643191,9.1
+Buenaventura,México,Vehículos y autopartes,2025,12,8220753,802994,1714512,2517506,11.7
+Bogotá (El Dorado),Estados Unidos,Maquinaria y equipo,2024,12,9669090,549166,1941469,2490635,11.1
+Santa Marta,Alemania,Maquinaria y equipo,2024,6,7908959,687705,1633366,2321071,4.1
+Cartagena,Brasil,Textiles y confecciones,2024,3,6305963,921162,1373154,2294316,3.3
+Buenaventura,Corea del Sur,Textiles y confecciones,2025,4,6451679,850604,1387434,2238038,10.0
+Santa Marta,Alemania,Electrónicos y tecnología,2025,9,8225362,518920,1661414,2180334,9.0
+Buenaventura,Estados Unidos,Textiles y confecciones,2025,14,5815309,837558,1264045,2101603,9.9
+Bogotá (El Dorado),México,Vehículos y autopartes,2024,9,7998331,455884,1606301,2062185,9.1
+Barranquilla,Corea del Sur,Textiles y confecciones,2025,7,5631106,566156,1177480,1743636,5.0
+Buenaventura,Alemania,Alimentos procesados,2024,14,4707105,703911,1028093,1732004,8.1
+Santa Marta,China,Vehículos y autopartes,2025,15,4633076,630302,1000042,1630344,11.4
+Barranquilla,Estados Unidos,Textiles y confecciones,2025,5,5281940,491108,1096879,1587987,2.9
+Buenaventura,México,Alimentos procesados,2024,16,5145610,466386,1066279,1532665,8.7
+Santa Marta,Corea del Sur,Textiles y confecciones,2024,6,5503615,371982,1116363,1488345,12.1
+Cartagena,México,Alimentos procesados,2024,15,4089250,572978,885823,1458801,10.5
+Bogotá (El Dorado),Alemania,Textiles y confecciones,2025,9,4927512,258589,985359,1243948,9.9
+Barranquilla,China,Textiles y confecciones,2025,9,3592252,467796,771409,1239205,11.1
+Bogotá (El Dorado),China,Textiles y confecciones,2024,9,3468187,485374,751177,1236551,4.4
+Bogotá (El Dorado),Estados Unidos,Alimentos procesados,2024,12,3860650,315530,793474,1109004,10.1
+Bogotá (El Dorado),China,Textiles y confecciones,2025,3,3500044,370097,735327,1105424,11.7
+Santa Marta,Estados Unidos,Textiles y confecciones,2024,12,3396237,253432,693437,946869,8.4
+Cartagena,China,Alimentos procesados,2024,6,2897281,269415,601672,871087,8.3
+Buenaventura,Alemania,Textiles y confecciones,2025,7,3253590,205775,657279,863054,6.0
+Buenaventura,Alemania,Alimentos procesados,2025,11,2893517,260323,599230,859553,12.3
+Bogotá (El Dorado),Corea del Sur,Alimentos procesados,2025,11,3273075,166214,653465,819679,10.7
+Bogotá (El Dorado),Estados Unidos,Textiles y confecciones,2025,15,2660225,216456,546569,763025,8.6
+Bogotá (El Dorado),China,Alimentos procesados,2024,15,1835117,270165,400004,670169,2.9
+Bogotá (El Dorado),Estados Unidos,Textiles y confecciones,2024,16,2575277,146642,517165,663807,10.2
+Cartagena,Alemania,Alimentos procesados,2024,5,1847812,240477,396775,637252,9.2
+Santa Marta,Corea del Sur,Textiles y confecciones,2025,4,2079514,162989,426076,589065,9.1
+Santa Marta,México,Alimentos procesados,2024,13,2091785,156786,427228,584014,3.5
+Barranquilla,Brasil,Textiles y confecciones,2025,10,1661943,184687,350860,535547,10.2
+Cartagena,Brasil,Alimentos procesados,2025,14,1486279,154899,311824,466723,10.0
+Bogotá (El Dorado),Brasil,Alimentos procesados,2024,9,794256,39847,158480,198327,11.8
